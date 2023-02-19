@@ -55,18 +55,18 @@ const commands = [
 
 const outputs = [
   `Hi, my name is Ogheneovo Grant-Oyeye. I'm in my 4th Year of studying
-   Computer Science at Mount Allison University, and plan to graduate some 
+   Computer Science at Mount Allison University, and expect to graduate in
    time in 2024. I'm passionate about building
-   software and am open to internship oppurtunities. 
-   I'm authorized to work in Canada and EU countries`
+   software and am open to internship oppurtunities and new-grad oppurtunities.
+    I'm authorized to work in Canada and EU countries.`
    ,
     `In addition to my experience gained through
-    personal projects I also have two months of proffesional experience, 
-    which I gained through a summer internship with Toast, Inc in the summer of 2022. .`
+    personal projects, I also have two months of proffesional experience. 
+    I gained this through a summer internship with Toast, Inc in the summer of 2022.`
     ,
-    `Languages: C, Java, JavaScript, SQL, Python `
+    `Languages: C, Java, JavaScript, SQL, Python`
     ,
-    `Other: React, Tailwind, PostgreSQL Node.JS, Jenkins`
+    `Other: React, Tailwind, PostgreSQL Node.JS`
     ,
 ]
 
